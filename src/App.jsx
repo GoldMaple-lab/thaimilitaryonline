@@ -64,7 +64,7 @@ const Header = () => (
 
 const Footer = () => (
   <footer className="text-center py-6 text-gray-400 text-xs mt-auto">
-    <p>© 2024 Thai Military Online. สงวนลิขสิทธิ์ทางราชการ</p>
+    <p>© 2026 Thai Military Online. สงวนลิขสิทธิ์ทางราชการ</p>
   </footer>
 );
 
